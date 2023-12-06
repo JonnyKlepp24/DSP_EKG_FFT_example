@@ -1,5 +1,3 @@
-%%testingExamples
-
 %% FFTs and windowing
 close all ; clear all; clc;
 
